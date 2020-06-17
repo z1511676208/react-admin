@@ -1,6 +1,6 @@
-# react-admin([尝试一下在线编辑](https://codesandbox.io/s/react-admin-u9kdb))
 
-react-admin system solution
+
+### react-admin 后台管理系统
 
 <img src="https://raw.githubusercontent.com/yezihaohao/react-admin/master/screenshots/logo.png" alt="logo" width="150" height="53" />
 
@@ -195,7 +195,7 @@ npx saigao myapp
 
 ##### 2.yarn 或者 npm 安装相关包文件(首先推荐使用 yarn，国内建议增加淘宝镜像源，不然很慢，你懂的 😁)
 
-> 有些老铁遇到运行时报错，首先确定下是不是最新稳定版的 nodejs 和 npm 或者 yarn(推荐用 yarn)，切记不要用 cnpm
+> 遇到运行时报错，首先确定下是不是最新稳定版的 nodejs 和 npm 或者 yarn(推荐用 yarn)，切记不要用 cnpm
 
 ```js
 // 首推荐使用yarn装包，避免自动升级依赖包
@@ -234,15 +234,6 @@ MIT
 
 ### 结尾
 
-该项目会不定时更新，后续时间会添加更多的模块
-
 欢迎和感谢大家 PR~~👏👏
-
-若有问题，可加 QQ 群与我交流
-
--   1 群：264591039（已满）
--   2 群：592688854（已满）
--   3 群：743490497 (已满)
--   4 群：150131600
 
 如果对你有帮助，给个 star 哟~~❤️❤️❤️❤️
